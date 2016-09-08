@@ -1,0 +1,10 @@
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\bin\Debug\Arsoulnal.exe.config
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\obj\Debug\Arsoulnal.csprojResolveAssemblyReference.cache
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\obj\Debug\Arsoulnal.Form1.resources
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\obj\Debug\Arsoulnal.Properties.Resources.resources
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\obj\Debug\Arsoulnal.csproj.GenerateResource.Cache
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\bin\Debug\Arsoulnal.exe
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\bin\Debug\Arsoulnal.pdb
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\obj\Debug\Arsoulnal.exe
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\obj\Debug\Arsoulnal.pdb
+C:\Users\Lennard\Documents\Arsoulnal\Arsoulnal\obj\Debug\Arsoulnal.Form2.resources
