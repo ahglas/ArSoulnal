@@ -63,6 +63,7 @@
             this.button3.TabIndex = 2;
             this.button3.Text = "Spellpedia";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // pictureBox1
             // 
@@ -76,9 +77,9 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(12, 191);
+            this.button4.Location = new System.Drawing.Point(12, 168);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(236, 23);
+            this.button4.Size = new System.Drawing.Size(236, 46);
             this.button4.TabIndex = 4;
             this.button4.Text = "Exit";
             this.button4.UseVisualStyleBackColor = true;

@@ -22,5 +22,12 @@ namespace Arsoulnal
 
             Application.Exit();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            var form1 = new Form1();
+            form1.Show();
+            this.Hide();
+        }
     }
 }
